@@ -32,12 +32,12 @@ I'm a CS student at **UniCEUB** in Brasília, diving deep into the world of prog
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Focus** | ![OOP](https://img.shields.io/badge/OOP-In_Progress-00D4AA?style=flat-square) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-R_Language-276DC3?style=flat-square) |
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -51,21 +51,6 @@ I'm a CS student at **UniCEUB** in Brasília, diving deep into the world of prog
 | 🐍 **Automate the Boring Stuff** | Python Automation | 🟩🟩⬜⬜⬜ |
 | 🗄️ **Learning SQL** | SQL & Databases | 🟩🟩🟩🟩⬜ |
 | 🧮 **Introduction to Algorithms** | Algorithms & Data Structures | 🟩⬜⬜⬜⬜ |
-
----
-
-## 🧮 My Love for Algorithms
-
-```
-For every problem p in the world:
-    if solution(p) exists:
-        implement(solution)
-    else:
-        think_harder()
-        repeat
-```
-
-Algorithms aren't just code — they're the **logic that shapes the world**. Whether it's sorting, searching, or graph traversal, I find beauty in computational problem-solving.
 
 ---
 

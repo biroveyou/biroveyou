@@ -17,18 +17,17 @@
 
 ---
 
-## `$ ABOUT ME
+## `ABOUT ME`
 
 ```
 CS student @ UniCEUB, Brasília.
-Diving deep into programming & CS fundamentals.
 Currently mastering Object-Oriented Programming.
 In love with the elegance of algorithms.
 ```
 
 ---
 
-## `$ CURRENTLY READING`
+## `CURRENTLY READING`
 
 | Book | Subject | Progress |
 |------|---------|----------|
@@ -37,18 +36,6 @@ In love with the elegance of algorithms.
 | **Learning SQL** | SQL & Databases | `[███████───]` 70% |
 | **Introduction to Algorithms** | Algorithms & DS | `[█─────────]` 10% |
 
----
-
-## `$ CURRENT GOALS`
-
-```
-[✔] Learn the basics of Python, Java, R, and SQL
-[✔] Master Git version control
-[·] Complete Object-Oriented Programming fundamentals
-[·] Finish reading Introduction to Algorithms
-[·] Build my first full-stack project
-[·] Contribute to an open-source project
-```
 
 ---
 <div align="center"><sub>EOF · UTF-8 · branch: main</sub></div>

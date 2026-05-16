@@ -25,17 +25,4 @@ Currently mastering Object-Oriented Programming.
 In love with the elegance of algorithms.
 ```
 
----
-
-## `CURRENTLY READING`
-
-| Book | Subject | Progress |
-|------|---------|----------|
-| **Head First Java** | Java & OOP | `[██────────]` 20% |
-| **Automate the Boring Stuff** | Python Automation | `[█████─────]` 50% |
-| **Learning SQL** | SQL & Databases | `[███████───]` 70% |
-| **Introduction to Algorithms** | Algorithms & DS | `[█─────────]` 10% |
-
-
----
 <div align="center"><sub>EOF · UTF-8 · branch: main</sub></div>

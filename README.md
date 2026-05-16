@@ -23,8 +23,6 @@ student = {
     "university": "UniCEUB",
     "location":   "Brasília, Brazil 🇧🇷",
     "currently":  "Learning Object-Oriented Programming",
-    "passion":    "Algorithms ❤️",
-    "status":     "always_learning = True"
 }
 ```
 
@@ -71,18 +69,6 @@ Algorithms aren't just code — they're the **logic that shapes the world**. Whe
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4AA)
-
-</div>
-
----
-
 ## 🎯 Current Goals
 
 - [x] Learn the basics of Python, Java, R, and SQL
@@ -97,7 +83,5 @@ Algorithms aren't just code — they're the **logic that shapes the world**. Whe
 <div align="center">
 
 **📍 Brasília, Brazil · 🎓 UniCEUB · 💡 Always Learning**
-
-*"First, solve the problem. Then, write the code."*
 
 </div>

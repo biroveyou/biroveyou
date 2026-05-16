@@ -17,7 +17,7 @@
 
 ---
 
-## `$ whoami`
+## `$ ABOUT ME
 
 ```
 CS student @ UniCEUB, Brasília.
@@ -28,7 +28,7 @@ In love with the elegance of algorithms.
 
 ---
 
-## `$ cat reading_list.txt`
+## `$ CURRENTLY READING`
 
 | Book | Subject | Progress |
 |------|---------|----------|
@@ -39,7 +39,7 @@ In love with the elegance of algorithms.
 
 ---
 
-## `$ cat goals.txt`
+## `$ CURRENT GOALS`
 
 ```
 [✔] Learn the basics of Python, Java, R, and SQL
@@ -48,14 +48,6 @@ In love with the elegance of algorithms.
 [·] Finish reading Introduction to Algorithms
 [·] Build my first full-stack project
 [·] Contribute to an open-source project
-```
-
----
-
-```
-╔══════════════════════════════════════════════════╗
-║  📍 Brasília, Brazil · 🎓 UniCEUB · 💡 Always Learning  ║
-╚══════════════════════════════════════════════════╝
 ```
 
 ---

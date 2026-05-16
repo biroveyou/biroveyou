@@ -30,15 +30,12 @@ I'm a CS student at **UniCEUB** in Brasília, diving deep into the world of prog
 
 ## 📚 Currently Reading
 
-> *"An investment in knowledge pays the best interest."*
-
 | Book | Subject | Progress |
 |------|---------|----------|
-| 📘 **Head First Java** | Java & OOP Concepts | 🟩🟩🟩⬜⬜ |
-| 🐍 **Automate the Boring Stuff** | Python Automation | 🟩🟩⬜⬜⬜ |
-| 🗄️ **Learning SQL** | SQL & Databases | 🟩🟩🟩🟩⬜ |
-| 🧮 **Introduction to Algorithms** | Algorithms & Data Structures | 🟩⬜⬜⬜⬜ |
-
+| 📘 **Head First Java** | Java & OOP Concepts | `[██░░░░░░░░]` 20% |
+| 🐍 **Automate the Boring Stuff** | Python Automation | `[█████░░░░░]` 50% |
+| 🗄️ **Learning SQL** | SQL & Databases | `[███████░░░]` 70% |
+| 🧮 **Introduction to Algorithms** | Algorithms & Data Structures | `[█░░░░░░░░░]` 10% |
 ---
 
 ## 🎯 Current Goals

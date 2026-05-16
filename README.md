@@ -1,16 +1,103 @@
-## Hi there 👋
+<!-- Header -->
+<div align="center">
 
-<!--
-**biroveyou/biroveyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+╔═══════════════════════════════════════════════════════════╗
+║           HELLO, WORLD! — I'M A CS STUDENT               ║
+║              based in Brasília, Brazil 🇧🇷                ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-Here are some ideas to get you started:
+**UniCEUB · Computer Science · Algorithm Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Learning+OOP+one+class+at+a+time...;Big+fan+of+algorithms!+%F0%9F%A7%AE;Always+reading%2C+always+coding.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```python
+student = {
+    "university": "UniCEUB",
+    "location":   "Brasília, Brazil 🇧🇷",
+    "currently":  "Learning Object-Oriented Programming",
+    "passion":    "Algorithms ❤️",
+    "status":     "always_learning = True"
+}
+```
+
+I'm a CS student at **UniCEUB** in Brasília, diving deep into the world of programming and computer science fundamentals. I'm currently focused on mastering **Object-Oriented Programming** and I have a genuine love for the elegance of algorithms.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Focus** | ![OOP](https://img.shields.io/badge/OOP-In_Progress-00D4AA?style=flat-square) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-R_Language-276DC3?style=flat-square) |
+
+---
+
+## 📚 Currently Reading
+
+> *"An investment in knowledge pays the best interest."*
+
+| Book | Subject | Progress |
+|------|---------|----------|
+| 📘 **Head First Java** | Java & OOP Concepts | 🟩🟩🟩⬜⬜ |
+| 🐍 **Automate the Boring Stuff** | Python Automation | 🟩🟩⬜⬜⬜ |
+| 🗄️ **Learning SQL** | SQL & Databases | 🟩🟩🟩🟩⬜ |
+| 🧮 **Introduction to Algorithms** | Algorithms & Data Structures | 🟩⬜⬜⬜⬜ |
+
+---
+
+## 🧮 My Love for Algorithms
+
+```
+For every problem p in the world:
+    if solution(p) exists:
+        implement(solution)
+    else:
+        think_harder()
+        repeat
+```
+
+Algorithms aren't just code — they're the **logic that shapes the world**. Whether it's sorting, searching, or graph traversal, I find beauty in computational problem-solving.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4AA)
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- [x] Learn the basics of Python, Java, R, and SQL
+- [x] Master Git version control
+- [ ] Complete Object-Oriented Programming fundamentals
+- [ ] Finish reading *Introduction to Algorithms*
+- [ ] Build my first full-stack project
+- [ ] Contribute to an open-source project
+
+---
+
+<div align="center">
+
+**📍 Brasília, Brazil · 🎓 UniCEUB · 💡 Always Learning**
+
+*"First, solve the problem. Then, write the code."*
+
+</div>

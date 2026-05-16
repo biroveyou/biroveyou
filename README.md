@@ -1,8 +1,13 @@
-<!-- Header -->
-<div align="center">
+```
+ ██████╗ ███████╗██╗   ██╗
+ ██╔══██╗██╔════╝██║   ██║
+ ██║  ██║█████╗  ██║   ██║
+ ██║  ██║██╔══╝  ╚██╗ ██╔╝
+ ██████╔╝███████╗ ╚████╔╝
+ ╚═════╝ ╚══════╝  ╚═══╝
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Learning+OOP+one+class+at+a+time...;Big+fan+of+algorithms!+%F0%9F%A7%AE;Always+reading%2C+always+coding.)](https://git.io/typing-svg)
-
+> *Learning OOP one class at a time... | Big fan of algorithms! | Always reading, always coding.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -10,47 +15,48 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</div>
-
 ---
 
-## 👨‍💻 About Me
+## `$ whoami`
 
-```python
-student = {
-    "university": "UniCEUB",
-    "location":   "Brasília, Brazil 🇧🇷",
-    "currently":  "Learning Object-Oriented Programming",
-}
+```
+CS student @ UniCEUB, Brasília.
+Diving deep into programming & CS fundamentals.
+Currently mastering Object-Oriented Programming.
+In love with the elegance of algorithms.
 ```
 
-I'm a CS student at **UniCEUB** in Brasília, diving deep into the world of programming and computer science fundamentals. I'm currently focused on mastering **Object-Oriented Programming** and I have a genuine love for the elegance of algorithms.
-
 ---
 
-## 📚 Currently Reading
+## `$ cat reading_list.txt`
 
 | Book | Subject | Progress |
 |------|---------|----------|
-| 📘 **Head First Java** | Java & OOP Concepts | `[██───────]` 20% |
-| 🐍 **Automate the Boring Stuff** | Python Automation | `[█████─────]` 50% |
-| 🗄️ **Learning SQL** | SQL & Databases | `[███████───]` 70% |
-| 🧮 **Introduction to Algorithms** | Algorithms & Data Structures | `[█─────────]` 10% |
----
-
-## 🎯 Current Goals
-
-- [x] Learn the basics of Python, Java, R, and SQL
-- [x] Master Git version control
-- [ ] Complete Object-Oriented Programming fundamentals
-- [ ] Finish reading *Introduction to Algorithms*
-- [ ] Build my first full-stack project
-- [ ] Contribute to an open-source project
+| **Head First Java** | Java & OOP | `[██────────]` 20% |
+| **Automate the Boring Stuff** | Python Automation | `[█████─────]` 50% |
+| **Learning SQL** | SQL & Databases | `[███████───]` 70% |
+| **Introduction to Algorithms** | Algorithms & DS | `[█─────────]` 10% |
 
 ---
 
-<div align="center">
+## `$ cat goals.txt`
 
-**📍 Brasília, Brazil · 🎓 UniCEUB · 💡 Always Learning**
+```
+[✔] Learn the basics of Python, Java, R, and SQL
+[✔] Master Git version control
+[·] Complete Object-Oriented Programming fundamentals
+[·] Finish reading Introduction to Algorithms
+[·] Build my first full-stack project
+[·] Contribute to an open-source project
+```
 
-</div>
+---
+
+```
+╔══════════════════════════════════════════════════╗
+║  📍 Brasília, Brazil · 🎓 UniCEUB · 💡 Always Learning  ║
+╚══════════════════════════════════════════════════╝
+```
+
+---
+<div align="center"><sub>EOF · UTF-8 · branch: main</sub></div>

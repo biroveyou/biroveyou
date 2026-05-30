@@ -25,6 +25,6 @@ Currently mastering Object-Oriented Programming.
 In love with the elegance of algorithms.
 ```
 
-[![roadmap.sh](https://roadmap.sh/card/tall/69ebaef28145813cab6d7731?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/69ebaef28145813cab6d7731?variant=dark&roadmaps=html%2Ccss%2Cfull-stack%2Cjavascript)](https://roadmap.sh)
 
 <div align="center"><sub>EOF · UTF-8 · branch: main</sub></div>

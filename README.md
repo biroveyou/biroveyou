@@ -21,7 +21,7 @@
 
 ```
 CS student @ UniCEUB, Brasília.
-Currently mastering Object-Oriented Programming.
+Currently mastering Web Languages.
 In love with the elegance of algorithms.
 ```
 
